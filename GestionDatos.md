@@ -1,0 +1,1 @@
+esta  gestion permite administrar la informacion mas relevante  del sistema esta funcion sirve comop nucleo del sistema donde se pueden agregar modificar, eliminar y consultar  registros de forma eficiente
